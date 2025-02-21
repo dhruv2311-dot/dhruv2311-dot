@@ -33,6 +33,10 @@
 
 ---
 ## 🎨 Custom Animations:
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhruv2311-dot/dhruv2311-dot/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhruv2311-dot/dhruv2311-dot/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dhruv2311-dot/dhruv2311-dot/output/pacman-contribution-graph.svg">
+</picture>
+
+generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)
