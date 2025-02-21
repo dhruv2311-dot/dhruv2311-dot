@@ -1,5 +1,5 @@
 <div align="center" style="background: linear-gradient(90deg, #ff8a00, #e52e71, #9b00ff); color: white; padding: 20px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=500&color=F7F7F7&center=true&vCenter=true&width=700&height=60&lines=Welcome+to+My+GitHub+Profile!;Hi+there+%F0%9F%91%8B%2C+I'm+Dhruv+Sonagra!;🚀+Full-Stack+Developer;🎮+Game+Enthusiast;💻+Problem+Solver+%26+Creator" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=500&color=F7F7F7&center=true&vCenter=true&width=700&height=60&lines=Welcome+to+My+GitHub+Profile!;Hi+there+%F0%9F%91%8B%2C+I'm+Dhruv+Sonagra!;🚀+Full-Stack+Developer;🌍+Exploring+API+Development;🔥+Building+Eventura;💡+Problem+Solver+%26+Innovator" alt="Typing Animation" />
 </div>
 
 ---
