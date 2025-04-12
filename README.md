@@ -39,4 +39,3 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dhruv2311-dot/dhruv2311-dot/output/pacman-contribution-graph.svg">
 </picture>
 
-generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)
