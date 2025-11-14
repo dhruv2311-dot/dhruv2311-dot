@@ -5,7 +5,7 @@
 ---
 
 # 💫 About Me:
-👋 Hi, I'm Dhruv – a passionate Full Stack Developer and Tech Enthusiast who loves building interactive and scalable web applications.<br><br>🔥 Currently Working On: Eventura – an event management platform<br>🎯 Currently Learning: Authentication with JWT, UI Animations, and improving API security<br>🌍 Exploring:<br>API Backend Development – Creating efficient and scalable APIs<br>API Integration – Seamlessly connecting services for enhanced functionality<br>💡 Fun Fact: I can spend hours debugging a single line of code, only to realize I forgot a semicolon. 😆<br><br>
+👋 Hi, I'm Dhruv – a passionate Full Stack Developer and Tech Enthusiast who loves building interactive and scalable web applications.<br><br>🔥 Currently Working On: Virtual Internship projects was given by Algonive <br>🎯 Currently Learning: Authentication with JWT, UI Animations, and improving API security<br>🌍 Exploring:<br>API Backend Development – Creating efficient and scalable APIs<br>API Integration – Seamlessly connecting services for enhanced functionality<br>💡 Fun Fact: I can spend hours debugging a single line of code, only to realize I forgot a semicolon. 😆<br><br>
 
 
 ## 🌐 Socials:
