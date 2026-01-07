@@ -13,7 +13,7 @@
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=500&color=6E7681&center=true&vCenter=true&repeat=false&width=900&lines=3+%7C" alt="Code Line 3" />
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=4+%7C+const+developer+%3D+%7B;5+%7C+++name%3A+'Dhruv+Sonagra'%2C;6+%7C+++role%3A+'Full-Stack+Developer'%2C;7+%7C+++tech%3A+%5B'React'%2C+'Node.js'%2C+'MongoDB'%2C+'Express'%5D;8+%7C+%7D%3B" alt="Main Code Block" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=900&height=130&lines=4+%7C+const+developer+%3D+%7B;5+%7C+++name%3A+'Dhruv+Sonagra'%2C;6+%7C+++role%3A+'Full-Stack+Developer'%2C;7+%7C+++tech%3A+%5B'React'%2C+'Node.js'%2C+'MongoDB'%2C+'Express'%5D;8+%7C+%7D%3B" alt="Main Code Block" />
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=500&color=56D364&center=true&vCenter=true&width=900&lines=9+%7C;10+%7C+export+default+developer%3B+%2F%2F+Ready+to+build+amazing+things+%F0%9F%9A%80" alt="Export Line" />
 
