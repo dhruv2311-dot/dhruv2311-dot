@@ -1,3 +1,10 @@
+<!-- Banner -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="100%" alt="Banner" />
+</div>
+
+<br/>
+
 <!-- Unique Cyberpunk HUD Header -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Zen+Dots&weight=900&size=85&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=1200&height=180&lines=DHRUV+SONAGRA" alt="Cyberpunk Name" />
