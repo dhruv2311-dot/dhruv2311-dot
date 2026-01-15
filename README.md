@@ -233,44 +233,45 @@ Features: OCR Receipt, Multi-Currency, Role-Based Access, Approvals
 <tr>
 <td width="50%" valign="top">
 
-### 💼 Project Name 1
-**Oct - Dec 2024**
+### 🎉 Eventura
+**Jan - March 2025**
 
-> Full-stack application with JWT authentication and real-time updates
+> Full-stack event management platform with booking system, live chat, and admin panel
 
 **Tech Stack:**
 ```javascript
 const stack = {
-  frontend: "React.js",
+  frontend: "React.js + Tailwind CSS",
   backend: "Node.js + Express",
   database: "MongoDB",
-  auth: "JWT"
+  auth: "Auth0",
+  realtime: "Socket.io"
 };
 ```
 
-[![Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/dhruv2311-dot/project1)
-[![Live](https://img.shields.io/badge/Live_Site-00C7B7?style=for-the-badge&logo=vercel)](https://project1.vercel.app)
+[![Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/dhruv2311-dot/eventura-)
+[![Live](https://img.shields.io/badge/Live_Site-00C7B7?style=for-the-badge&logo=netlify)](https://eventura-23.netlify.app/)
 
 </td>
 <td width="50%" valign="top">
 
-### 🛒 Project Name 2
-**Aug - Sep 2024**
+### ✈️ TravelSync
+**Jul - Aug 2025**
 
-> E-commerce platform with payment integration and state management
+> Full-stack travel planning platform with hotel booking and payment integration
 
 **Tech Stack:**
 ```javascript
 const stack = {
-  frontend: "React + Redux",
+  frontend: "React + Tailwind CSS",
   backend: "Node.js + Express",
-  database: "MongoDB",
-  payment: "Stripe"
+  database: "MongoDB + Mongoose",
+  auth: "JWT + Firebase"
 };
 ```
 
-[![Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/dhruv2311-dot/project2)
-[![Live](https://img.shields.io/badge/Live_Site-00C7B7?style=for-the-badge&logo=netlify)](https://project2.netlify.app)
+[![Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/dhruv2311-dot/TravelSync)
+[![Live](https://img.shields.io/badge/Live_Site-00C7B7?style=for-the-badge&logo=netlify)](https://travelsync.netlify.app/)
 
 </td>
 </tr>
@@ -290,9 +291,13 @@ const stack = {
 
 | 🎓 **Certification** | 🏢 **Platform** | 📅 **Issued** | 🔗 **Verify** |
 |:---------------------|:----------------|:--------------|:--------------|
-| **Full Stack Web Development** | Coursera | December 2024 | [![View](https://img.shields.io/badge/Certificate-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://certificate-link.com) |
-| **JavaScript Advanced Concepts** | freeCodeCamp | November 2024 | [![View](https://img.shields.io/badge/Certificate-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white)](https://certificate-link.com) |
-| **React.js Professional** | Udemy | October 2024 | [![View](https://img.shields.io/badge/Certificate-A435F0?style=flat-square&logo=udemy&logoColor=white)](https://certificate-link.com) |
+| **Hackathon 2025** | Odoo X Gujarat Vidhyapith | April 2025 | [![View](https://img.shields.io/badge/Certificate-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/dhruvvv23_hackathonjourney-innovation-sustainablefarming-activity-7311297836082438145-4Ws0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFFbQIEBNyvXKq2e2we3ieNXl2L1zznWXvo) |
+| **Tech Expo 2025** | Rai University | February 2025 | [![View](https://img.shields.io/badge/Certificate-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/dhruvvv23_techexpo-cse-eventura-activity-7302664635332050944-pF9H?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFFbQIEBNyvXKq2e2we3ieNXl2L1zznWXvo) |
+| **React (Basic)** | HackerRank | May 2025 | [![View](https://img.shields.io/badge/Certificate-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/29f04f97089f) |
+| **JavaScript (Basic)** | HackerRank | May 2025 | [![View](https://img.shields.io/badge/Certificate-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/a3b280e1ad5b) |
+| **Node.js (Basic)** | HackerRank | May 2025 | [![View](https://img.shields.io/badge/Certificate-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/edf3c23f04f1) |
+| **Frontend Development (Basic)** | HackerRank | May 2025 | [![View](https://img.shields.io/badge/Certificate-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/6f6e8a824ad7) |
+| **GitHub Copilot Fundamentals** | Simplilearn | May 2025 | [![View](https://img.shields.io/badge/Certificate-FF6B35?style=flat-square&logo=github&logoColor=white)](https://simpli-web.app.link/e/b81icFwByTb) |
 
 </div>
 
