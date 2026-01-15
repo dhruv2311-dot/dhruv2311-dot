@@ -37,7 +37,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&color=667EEAF0&center=true&vCenter=true&width=300&lines=About+Me" alt="About Me" />
 </h2>
 
-<img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img align="right" alt="Coding" width="450" src="assets/371756374-0bf134e2-c0ba-488b-bbd4-9300f2f77871.gif">
 
 <div align="left">
 
