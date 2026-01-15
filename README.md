@@ -157,30 +157,61 @@ const currentlyWorking = {
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 Project Name 1
-**Hackathon Name** | *Jan 15-17, 2025*
+### 🚀 FarmTrust
+**OdooXGujaratVidhayapith** | *March , 2025*
 
 ```yaml
 Tech: React • Node.js • MongoDB • Express
-Features: Real-time updates, JWT Auth, REST API
+Features: Real-time updates, JWT Auth, Chatbot , i18n , socket.io
 ```
 
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhruv2311-dot/repo1)
-[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://demo1.vercel.app)
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhruv2311-dot/FarmTrust)
+[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://farmtrust.netlify.app/)
 
 </td>
 <td width="50%" valign="top">
 
-### 💡 Project Name 2
-**Another Hackathon** | *Dec 10-12, 2024*
+### 💡 Stock_Master
+**OdooXSpit** | *Nov , 2025*
 
 ```yaml
-Tech: MERN • Socket.io • JWT • Redux
-Features: WebSocket, State Management, Auth
+Tech: Next.js • Supabase • Node.js 
+Features: Realtime Updates, Secure Access, Auth
 ```
 
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhruv2311-dot/repo2)
-[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://demo2.netlify.app)
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhruv2311-dot/Stock_Master)
+[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://stock-master-phi.vercel.app/)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌱 EcoFinds
+**Odoo x NMIT Hackathon** | *Sept 2025*
+
+```yaml
+Tech: React • Vite • Tailwind • MongoDB • Express
+Features: E-commerce, Shopping Cart, JWT Auth, Product CRUD
+```
+
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhruv2311-dot/EcoFinds)
+[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://eco-finds-pink.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### 💰 Expenseura
+**Odoo X Ameltha Hackathon** | *Oct 2025*
+
+```yaml
+Tech: React • Vite • Supabase • PostgreSQL • Tailwind
+Features: OCR Receipt, Multi-Currency, Role-Based Access, Approvals
+```
+
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhruv2311-dot/Expenseura)
+[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://expenseura.vercel.app/)
 
 </td>
 </tr>
