@@ -133,7 +133,7 @@ const currentlyWorking = {
 
 ### 💻 **Programming Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,typescript&theme=dark" />
 </p>
 
 ### 🛠️ **Tools & Technologies**
