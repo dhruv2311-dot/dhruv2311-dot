@@ -338,6 +338,7 @@ const stack = {
 
 | 🎓 **Certification** | 🏢 **Platform** | 📅 **Issued** | 🔗 **Verify** |
 |:---------------------|:----------------|:--------------|:--------------|
+| **Hack The Winter Certificate** | Dream Builders | March 2026 | [![View](https://img.shields.io/badge/Certificate-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/dhruvvv23_hackthewinter-dreambuilders-smartemergencybloodnetwork-activity-7423229138368520192-7tHU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFFbQIEBNyvXKq2e2we3ieNXl2L1zznWXvo) |
 | **Hackathon 2025** | Odoo X Gujarat Vidhyapith | April 2025 | [![View](https://img.shields.io/badge/Certificate-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/dhruvvv23_hackathonjourney-innovation-sustainablefarming-activity-7311297836082438145-4Ws0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFFbQIEBNyvXKq2e2we3ieNXl2L1zznWXvo) |
 | **Tech Expo 2025** | Rai University | February 2025 | [![View](https://img.shields.io/badge/Certificate-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/dhruvvv23_techexpo-cse-eventura-activity-7302664635332050944-pF9H?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFFbQIEBNyvXKq2e2we3ieNXl2L1zznWXvo) |
 | **React (Basic)** | HackerRank | May 2025 | [![View](https://img.shields.io/badge/Certificate-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/29f04f97089f) |
