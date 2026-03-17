@@ -5,6 +5,7 @@
 
 <br/>
 
+
 <!-- Unique Cyberpunk HUD Header -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Zen+Dots&weight=900&size=85&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=1200&height=180&lines=DHRUV+SONAGRA" alt="Cyberpunk Name" />
@@ -272,6 +273,33 @@ const stack = {
 
 [![Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/dhruv2311-dot/TravelSync)
 [![Live](https://img.shields.io/badge/Live_Site-00C7B7?style=for-the-badge&logo=netlify)](https://travelsync.netlify.app/)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 👕 ReWear
+**Feb - Mar 2026**
+
+> Sustainable clothing exchange platform with secure trading, real-time chat, and admin controls
+
+**Tech Stack:**
+```javascript
+const stack = {
+  frontend: "React 19 + Vite + Tailwind CSS 4",
+  backend: "Node.js + Express + Socket.io",
+  database: "MongoDB + Mongoose",
+  auth: "Passport.js + JWT + OAuth"
+};
+```
+
+[![Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/dhruv2311-dot/ReWear)
+[![Live](https://img.shields.io/badge/Live_Site-00C7B7?style=for-the-badge&logo=vercel)](https://re-wear-delta.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
