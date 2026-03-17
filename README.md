@@ -216,6 +216,25 @@ Features: OCR Receipt, Multi-Currency, Role-Based Access, Approvals
 
 </td>
 </tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📦 CoreInventory
+**Odoo X Indus Virtual Hackathon** | *Mar 2026*
+
+```yaml
+Tech: React • Vite • Express • Supabase • Tailwind
+Features: Inventory Workflows, OTP Reset, Stock Tracking, Dashboard Analytics
+```
+
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhruv2311-dot/CoreInventory)
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
 </table>
 
 </div>
