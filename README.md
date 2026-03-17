@@ -233,6 +233,18 @@ Features: Inventory Workflows, OTP Reset, Stock Tracking, Dashboard Analytics
 </td>
 <td width="50%" valign="top">
 
+### ❄️ Hack_The_Winter
+**Hack The Winter** | *Jan 2026*
+
+```yaml
+Tech: React • Node.js • Express • MongoDB
+Features: Emergency Blood Search, Radius Escalation, Audit Flow, NGO Fallback
+```
+
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhruv2311-dot/Hack_The_Winter)
+[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://hackthewinter.netlify.app/)
+[![Video](https://img.shields.io/badge/Demo_Video-FF4B4B?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1splVdZoQxYmd0r-DX-u-tqTPUxqSP3fD?usp=sharing)
+
 </td>
 </tr>
 </table>
