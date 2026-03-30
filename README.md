@@ -320,6 +320,25 @@ const stack = {
 </td>
 <td width="50%" valign="top">
 
+### 🌍 GlobeTrotter
+**Mar 2026**
+
+> Premium full-stack travel planning app for discovering destinations, planning trips, and booking stays
+
+**Tech Stack:**
+```javascript
+const stack = {
+  frontend: "React 18 + Vite + Zustand",
+  backend: "Node.js + Express",
+  database: "MongoDB + Mongoose",
+  auth: "JWT + bcrypt + HTTP-only cookies"
+};
+```
+
+[![Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/dhruv2311-dot/GlobeTrotter)
+[![Live](https://img.shields.io/badge/Live_Site-00C7B7?style=for-the-badge&logo=vercel)](https://globe-trotter-beryl.vercel.app/)
+[![API Docs](https://img.shields.io/badge/API_Docs-FF6F00?style=for-the-badge&logo=postman&logoColor=white)](https://documenter.getpostman.com/view/39189509/2sBXinGAMV)
+
 </td>
 </tr>
 </table>
