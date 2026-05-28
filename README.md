@@ -103,7 +103,7 @@ const currentlyWorking = {
 [![Gmail](https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:dhruv.sonagra.cg@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/dhruv2311-dot)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116)](https://leetcode.com/u/dhruvvv_23/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722)](https://dhruv-portfolio23.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722)](https://dhruvsonagra.me/)
 
 </div>
 
@@ -129,7 +129,7 @@ const currentlyWorking = {
 
 ### ⚙️ **Backend Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postman,spring&theme=dark" />
 </p>
 
 ### 💻 **Programming Languages**
@@ -139,7 +139,7 @@ const currentlyWorking = {
 
 ### 🛠️ **Tools & Technologies**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,npm,netlify,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,npm,jenkins,netlify,vercel&theme=dark" />
 </p>
 
 </div>
