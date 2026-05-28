@@ -166,6 +166,8 @@ const currentlyWorking = {
 
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhruv2311-dot/FarmTrust)
 [![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://farmtrust.netlify.app/)
+[![API](https://img.shields.io/badge/API_Docs-FF6F00?style=for-the-badge&logo=postman&logoColor=white)](https://documenter.getpostman.com/view/39189509/2sAYX3s4Dc)
+[![Video](https://img.shields.io/badge/Demo_Video-FF4B4B?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/djjPbC6RjfM?si=DIfwCttOwdgoHNzW)
 
 </td>
 <td width="50%" valign="top">
@@ -177,7 +179,9 @@ const currentlyWorking = {
 <strong>Features:</strong> Realtime updates, Secure access, Auth
 
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhruv2311-dot/Stock_Master)
-[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://stock-master-phi.vercel.app/)
+[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://stock-master-phi.vercel.app/)
+[![Demo](https://img.shields.io/badge/Demo_Video-FF4B4B?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/jW3N5y22LoI?si=loHINSVVbZP197BR)
+[![API](https://img.shields.io/badge/API_Docs-FF6F00?style=for-the-badge&logo=postman&logoColor=white)](https://documenter.getpostman.com/view/39189509/2sBXigMtds)
 
 </td>
 </tr>
@@ -193,18 +197,7 @@ const currentlyWorking = {
 
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhruv2311-dot/EcoFinds)
 [![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://eco-finds-pink.vercel.app/)
-
-</td>
-<td width="50%" valign="top">
-
-### 💰 Expenseura
-**Odoo X Ameltha Hackathon** | *Oct 2025*
-
-<strong>Tech:</strong> React • Vite • Supabase • PostgreSQL • Tailwind<br/>
-<strong>Features:</strong> OCR receipt, Multi-currency, Role-based access, Approvals
-
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhruv2311-dot/Expenseura)
-[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://expenseura.vercel.app/)
+[![API](https://img.shields.io/badge/API_Docs-FF6F00?style=for-the-badge&logo=postman&logoColor=white)](https://documenter.getpostman.com/view/39189509/2sBXwjwtjr)
 
 </td>
 </tr>
@@ -220,6 +213,9 @@ const currentlyWorking = {
 
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhruv2311-dot/CoreInventory)
 
+[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://core-inventory-23.vercel.app/)
+[![API](https://img.shields.io/badge/API_Docs-FF6F00?style=for-the-badge&logo=postman&logoColor=white)](https://documenter.getpostman.com/view/39189509/2sBXwjwtjw)
+
 </td>
 <td width="50%" valign="top">
 
@@ -231,6 +227,7 @@ const currentlyWorking = {
 
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhruv2311-dot/Hack_The_Winter)
 [![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://hackthewinter.netlify.app/)
+[![API](https://img.shields.io/badge/API_Docs-FF6F00?style=for-the-badge&logo=postman&logoColor=white)](https://documenter.getpostman.com/view/39216723/2sBXVbJuPe)
 [![Video](https://img.shields.io/badge/Demo_Video-FF4B4B?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1splVdZoQxYmd0r-DX-u-tqTPUxqSP3fD?usp=sharing)
 
 </td>
@@ -271,6 +268,8 @@ const stack = {
 
 [![Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/dhruv2311-dot/eventura-)
 [![Live](https://img.shields.io/badge/Live_Site-00C7B7?style=for-the-badge&logo=netlify)](https://eventura-23.netlify.app/)
+[![API](https://img.shields.io/badge/API_Docs-FF6F00?style=for-the-badge&logo=postman&logoColor=white)](https://documenter.getpostman.com/view/39189509/2sAYX3s4Dc)
+[![Demo](https://img.shields.io/badge/Demo_Video-FF4B4B?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/3drgquKM4o8?si=K1ol6J4BGV7bwOZH)
 
 </td>
 <td width="50%" valign="top">
@@ -316,6 +315,7 @@ const stack = {
 
 [![Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/dhruv2311-dot/ReWear)
 [![Live](https://img.shields.io/badge/Live_Site-00C7B7?style=for-the-badge&logo=vercel)](https://re-wear-delta.vercel.app/)
+[![API](https://img.shields.io/badge/API_Docs-FF6F00?style=for-the-badge&logo=postman&logoColor=white)](https://documenter.getpostman.com/view/39189509/2sBXwjwtjt)
 
 </td>
 <td width="50%" valign="top">
