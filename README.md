@@ -200,9 +200,6 @@ const currentlyWorking = {
 [![API](https://img.shields.io/badge/API_Docs-FF6F00?style=for-the-badge&logo=postman&logoColor=white)](https://documenter.getpostman.com/view/39189509/2sBXwjwtjr)
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### 📦 CoreInventory
@@ -217,7 +214,10 @@ const currentlyWorking = {
 [![API](https://img.shields.io/badge/API_Docs-FF6F00?style=for-the-badge&logo=postman&logoColor=white)](https://documenter.getpostman.com/view/39189509/2sBXwjwtjw)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
 
 ### ❄️ Hack_The_Winter
 **Hack The Winter** | *Jan 2026*
