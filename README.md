@@ -198,6 +198,7 @@ const currentlyWorking = {
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhruv2311-dot/EcoFinds)
 [![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://eco-finds-pink.vercel.app/)
 [![API](https://img.shields.io/badge/API_Docs-FF6F00?style=for-the-badge&logo=postman&logoColor=white)](https://documenter.getpostman.com/view/39189509/2sBXwjwtjr)
+[![Demo](https://img.shields.io/badge/Demo_Video-FF4B4B?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/ZGDns89RMPE?si=1hez9BXr3ctwPv1f)
 
 </td>
 <td width="50%" valign="top">
@@ -316,6 +317,7 @@ const stack = {
 [![Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/dhruv2311-dot/ReWear)
 [![Live](https://img.shields.io/badge/Live_Site-00C7B7?style=for-the-badge&logo=vercel)](https://re-wear-delta.vercel.app/)
 [![API](https://img.shields.io/badge/API_Docs-FF6F00?style=for-the-badge&logo=postman&logoColor=white)](https://documenter.getpostman.com/view/39189509/2sBXwjwtjt)
+[![Demo](https://img.shields.io/badge/Demo_Video-FF4B4B?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/i5C2zrW91nM?si=gd--AQC2JnSm5jRQ)
 
 </td>
 <td width="50%" valign="top">
@@ -338,6 +340,7 @@ const stack = {
 [![Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/dhruv2311-dot/GlobeTrotter)
 [![Live](https://img.shields.io/badge/Live_Site-00C7B7?style=for-the-badge&logo=vercel)](https://globe-trotter-beryl.vercel.app/)
 [![API Docs](https://img.shields.io/badge/API_Docs-FF6F00?style=for-the-badge&logo=postman&logoColor=white)](https://documenter.getpostman.com/view/39189509/2sBXinGAMV)
+[![Demo](https://img.shields.io/badge/Demo_Video-FF4B4B?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/6aurE6GCzkY?si=EYWpn9Oz1qhij7Ti)
 
 </td>
 </tr>
@@ -359,6 +362,7 @@ const stack = {
 |:---------------------|:----------------|:--------------|:--------------|
 | **Hack The Winter Certificate** | Dream Builders | March 2026 | [![View](https://img.shields.io/badge/Certificate-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/dhruvvv23_hackthewinter-dreambuilders-smartemergencybloodnetwork-activity-7423229138368520192-7tHU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFFbQIEBNyvXKq2e2we3ieNXl2L1zznWXvo) |
 | **Hackathon 2025** | Odoo X Gujarat Vidhyapith | April 2025 | [![View](https://img.shields.io/badge/Certificate-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/dhruvvv23_hackathonjourney-innovation-sustainablefarming-activity-7311297836082438145-4Ws0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFFbQIEBNyvXKq2e2we3ieNXl2L1zznWXvo) |
+| **Odoo X Indus Hackathon** | Odoo X Indus | April 2026 | [![View](https://img.shields.io/badge/Certificate-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/dhruvvv23_odoo-hackathon-fullstackdevelopment-ugcPost-7447867217783844864-vFmF/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFFbQIEBNyvXKq2e2we3ieNXl2L1zznWXvo) |
 | **Tech Expo 2025** | Rai University | February 2025 | [![View](https://img.shields.io/badge/Certificate-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/dhruvvv23_techexpo-cse-eventura-activity-7302664635332050944-pF9H?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFFbQIEBNyvXKq2e2we3ieNXl2L1zznWXvo) |
 | **React (Basic)** | HackerRank | May 2025 | [![View](https://img.shields.io/badge/Certificate-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/29f04f97089f) |
 | **JavaScript (Basic)** | HackerRank | May 2025 | [![View](https://img.shields.io/badge/Certificate-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/a3b280e1ad5b) |
