@@ -34,7 +34,7 @@
 
 <!-- Enhanced About Section with Unique GIF -->
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="45" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="40" style="vertical-align:middle;margin-right:8px;" />
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&color=667EEAF0&center=true&vCenter=true&width=300&lines=About+Me" alt="About Me" />
 </h2>
 
@@ -91,7 +91,7 @@ const currentlyWorking = {
 
 <!-- Enhanced Connect Section with Gradient -->
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" style="vertical-align:middle;margin-right:8px;" />
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&color=F093FBF0&center=true&vCenter=true&width=400&lines=Let's+Connect!" alt="Let's Connect" />
 </h2>
 
@@ -116,7 +116,7 @@ const currentlyWorking = {
 
 <!-- Enhanced Tech Stack with Categories -->
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35" />
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40" style="vertical-align:middle;margin-right:8px;" />
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&color=43E97BF0&center=true&vCenter=true&width=350&lines=Tech+Arsenal" alt="Tech Stack" />
 </h2>
 
@@ -149,7 +149,8 @@ const currentlyWorking = {
 
 <!-- Enhanced Hackathon Section -->
 <h2 align="center">
-  🏆 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&color=FFD93DF0&center=true&vCenter=true&width=500&lines=Hackathon+Projects" alt="Hackathon" />
+  <span style="font-size:40px;vertical-align:middle;margin-right:8px;">🏆</span>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&color=FFD93DF0&center=true&vCenter=true&width=500&lines=Hackathon+Projects" alt="Hackathon" />
 </h2>
 
 <div align="center">
@@ -242,7 +243,8 @@ const currentlyWorking = {
 
 <!-- Enhanced MERN Projects -->
 <h2 align="center">
-  ✨ <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&color=667EEAF0&center=true&vCenter=true&width=650&lines=Featured+MERN+Projects" alt="Projects" />
+  <span style="font-size:40px;vertical-align:middle;margin-right:8px;">✨</span>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&color=667EEAF0&center=true&vCenter=true&width=650&lines=Featured+MERN+Projects" alt="Projects" />
 </h2>
 
 <div align="center">
@@ -353,7 +355,8 @@ const stack = {
 
 <!-- Enhanced Certifications -->
 <h2 align="center">
-  📜 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&color=F38181F0&center=true&vCenter=true&width=450&lines=Certifications" alt="Certifications" />
+  <span style="font-size:40px;vertical-align:middle;margin-right:8px;">📜</span>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&color=F38181F0&center=true&vCenter=true&width=450&lines=Certifications" alt="Certifications" />
 </h2>
 
 <div align="center">
@@ -379,7 +382,8 @@ const stack = {
 
 <!-- Contribution Graph -->
 <h2 align="center">
-  🎨 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&color=FF6B6BF0&center=true&vCenter=true&width=600&lines=Contribution+Graph" alt="Contribution" />
+  <span style="font-size:40px;vertical-align:middle;margin-right:8px;">🎨</span>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&color=FF6B6BF0&center=true&vCenter=true&width=600&lines=Contribution+Graph" alt="Contribution" />
 </h2>
 
 <picture>
