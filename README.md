@@ -214,6 +214,7 @@ const currentlyWorking = {
 
 [![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://core-inventory-23.vercel.app/)
 [![API](https://img.shields.io/badge/API_Docs-FF6F00?style=for-the-badge&logo=postman&logoColor=white)](https://documenter.getpostman.com/view/39189509/2sBXwjwtjw)
+[![Demo](https://img.shields.io/badge/Demo_Video-FF4B4B?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/noDE-GWAO4E?si=3BD1T_P1DaQ7fDR8)
 
 </td>
 </tr>
